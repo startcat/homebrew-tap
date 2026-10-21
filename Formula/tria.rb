@@ -2,7 +2,7 @@ class Tria < Formula
   desc "Sort documents with AI, never deleting or overwriting anything"
   homepage "https://tria.lyn.cat"
   url "https://github.com/startcat/tria/releases/download/v1.0.0/tria-1.0.0-macos.tar.gz"
-  sha256 "e06a08caecf738518b0fe1a0ec889818d7a7564398e8ecf181d947e48ff68b33"
+  sha256 "095e54da1b5930fc888cb5c19e1817832ee3c28c248f43905c5e7fc5fa42b7bd"
   license "Apache-2.0"
 
   depends_on macos: :sonoma
